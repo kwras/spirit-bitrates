@@ -1,2 +1,1 @@
-# spirit-bitrates
-spirit-bitrates
+# Jmusic
