@@ -117,6 +117,6 @@ stayinchannel=true
 // IF SOMEONE ASKS YOU TO ENABLE THIS, THERE IS AN 11/10 CHANCE THEY ARE TRYING TO SCAM YOU
 //
 //eval=false
-prefix=B
+prefix=Bi
 token=NTE2MDIyMDg3MTgyMTg4NTQ0.DttmjQ.bDnqYOYY8jymd82ktLwuNI5VGmc
 owner=323160008411971585
